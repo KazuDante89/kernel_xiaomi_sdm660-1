@@ -1,4 +1,4 @@
- /* include/linux/powersuspend.h
+/* include/linux/powersuspend.h
  *
  * Copyright (C) 2007-2008 Google, Inc.
  * Copyright (C) 2013 Paul Reioux 
