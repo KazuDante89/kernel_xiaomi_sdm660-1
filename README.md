@@ -7,11 +7,6 @@
 * <a href="https://github.com/Peppe289/rave_kernel_lavender/tree/OC-Newcam">Newcam 1.9 Ghz little & 2.4 Ghz big</a>
 * <a href="https://github.com/Peppe289/rave_kernel_lavender/tree/OC-version">Oldcam 1.9 Ghz little & 2.4 Ghz big</a>
 
-# Branch for the oddities XD
-
-* <a href="https://github.com/Peppe289/rave_kernel_lavender/tree/crazy"> in this branch I do strange things (oldcam)</a>
-    * not to be considered stable 
-
 # Beta Source 
 
 * <a href="https://github.com/Peppe289/rave_kernel_lavender/tree/beta">before releases (HMP oldcam) </a>
